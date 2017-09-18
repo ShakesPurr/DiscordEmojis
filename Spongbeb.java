@@ -5,7 +5,7 @@ public class Spongbeb
 	public static void main(String[] args)
 	{
 		String words, spongbeb = " ";
-		char letter1 = ' ', letter2 = ' ';
+		char letter1 = ' ';
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("Please enter a word or sentence: ");
